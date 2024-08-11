@@ -1,0 +1,15 @@
+#form form{
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    width:200px;
+    margin:auto;
+    
+}
+#form{
+    width:300px;
+    height:350px;
+    background-color: aqua;
+    margin:auto;
+
+}
